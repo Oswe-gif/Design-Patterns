@@ -1,0 +1,14 @@
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\bin\Debug\net8.0\Singlenton.exe
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\bin\Debug\net8.0\Singlenton.deps.json
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\bin\Debug\net8.0\Singlenton.runtimeconfig.json
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\bin\Debug\net8.0\Singlenton.dll
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\bin\Debug\net8.0\Singlenton.pdb
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\Singlenton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\Singlenton.AssemblyInfoInputs.cache
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\Singlenton.AssemblyInfo.cs
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\Singlenton.csproj.CoreCompileInputs.cache
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\Singlenton.dll
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\refint\Singlenton.dll
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\Singlenton.pdb
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\Singlenton.genruntimeconfig.cache
+C:\Users\jome\Downloads\Design patterns\Design patterns\Singlenton\obj\Debug\net8.0\ref\Singlenton.dll
