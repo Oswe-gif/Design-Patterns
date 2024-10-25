@@ -3,7 +3,15 @@
 The primary purpose of this repository is to explore and implement a variety of design patterns using C#. Through this project, I aim to deepen my understanding of these patterns and their practical applications in software development. I hope to illustrate their benefits, improve my programming skills, and provide a valuable resource for others interested in C# design patterns. 
 
 ## Singleton
+"Singleton is a creational design pattern that lets you ensure that a class has only one instance" [1]
+#### Important
+"The pattern requires special treatment in a multithreaded environment so that multiple threads won’t create a singleton object several times" [1] [2].   
+In a multi-threaded environment, multiple threads can execute code simultaneously. When implementing a Singleton, the goal is to ensure that only one instance of the class is created.  
+#### Example:
+Thread A and Thread B both check if the Singleton instance is null at the same time. Both threads find that the instance is null and proceed to create a new instance and therefore two instances are created, violating the Singleton principle.
+#### So...
 
+To prevent this, synchronization mechanisms like locks are used to ensure that only one thread can execute the critical section of code at a time.
 
 ### Resources used:
 [1] [refactoring.guru](https://refactoring.guru/design-patterns/singleton)  
