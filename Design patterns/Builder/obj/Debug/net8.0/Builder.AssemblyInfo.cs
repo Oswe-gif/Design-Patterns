@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Singleton")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Builder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+819824c70e1fec0943804944003c56f4f4e885f9")]
-[assembly: System.Reflection.AssemblyProductAttribute("Singleton")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Singleton")]
+[assembly: System.Reflection.AssemblyProductAttribute("Builder")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Builder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
