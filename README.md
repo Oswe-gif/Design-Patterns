@@ -22,7 +22,7 @@ To prevent this, synchronization mechanisms like locks are used to ensure that o
 ## Builder
 "Builder is a creational design pattern that lets you construct complex objects step by step." [1]
 #### Director:
-"The director class defines the order in which to execute the building steps, while the builder provides the implementation for those steps." [1]
+"The director (optional) class defines the order in which to execute the building steps, while the builder provides the implementation for those steps." [1]
 
 ### Resources used:
 [1] [refactoring.guru](https://refactoring.guru/design-patterns/builder)  
