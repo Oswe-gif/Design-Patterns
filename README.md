@@ -5,7 +5,8 @@ The primary purpose of this repository is to explore and implement a variety of 
 ## Singleton
 "Singleton is a creational design pattern that lets you ensure that a class has only one instance" [1]
 #### Important
-"The pattern requires special treatment in a multithreaded environment so that multiple threads won’t create a singleton object several times" [1] [2].   
+"The pattern requires special treatment in a multithreaded environment so that multiple threads won’t create a singleton object several times" [1,2].
+
 In a multi-threaded environment, multiple threads can execute code simultaneously. When implementing a Singleton, the goal is to ensure that only one instance of the class is created.  
 #### Example:
 Thread A and Thread B both check if the Singleton instance is null at the same time. Both threads find that the instance is null and proceed to create a new instance and therefore two instances are created, violating the Singleton principle.
