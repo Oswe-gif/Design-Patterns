@@ -27,3 +27,13 @@ To prevent this, synchronization mechanisms like locks are used to ensure that o
 ### Resources used:
 [1] [refactoring.guru](https://refactoring.guru/design-patterns/builder)  
 [2] [Inspiration and Guidance for the Code](https://www.youtube.com/watch?v=MaY_MDdWkQw)
+
+
+## Abstract Factory
+"Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes." [1]
+#### Inspiration and Guidance for the Code [1]:  
+![image](https://github.com/user-attachments/assets/216b009c-38e6-42c7-9d1b-1c1dfa6e19f1)
+
+### Resources used:
+[1] [refactoring.guru](https://refactoring.guru/design-patterns/abstract-factory)  
+
