@@ -37,3 +37,12 @@ To prevent this, synchronization mechanisms like locks are used to ensure that o
 ### Resources used:
 [1] [refactoring.guru](https://refactoring.guru/design-patterns/abstract-factory)  
 
+## Factory Method
+"Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created." [1]
+#### Inspiration and Guidance for the Code [1]:  
+![image](https://github.com/user-attachments/assets/a55c4611-6d73-4885-a92a-34c6c86dc2a1)
+
+
+### Resources used:
+[1] [refactoring.guru](https://refactoring.guru/design-patterns/factory-method)  
+
